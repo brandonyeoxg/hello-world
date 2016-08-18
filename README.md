@@ -1,2 +1,2 @@
 # hello-world
-Repo to be familiar with GIT
+I am just testing out branch functionality of GIT
